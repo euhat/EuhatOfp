@@ -6,5 +6,7 @@ Peer to peers communication through user space tcp stack like OFP over DPDK.
 
 ## How to build
 http://euhat.com/wp/2021/01/11/compile-ofp-over-dpdk-in-vmware/
+http://euhat.com/wp/2021/01/11/how-to-build-euhatofp/
 
 ## How to run
+http://euhat.com/wp/2021/01/11/how-to-run-euhatofp/
