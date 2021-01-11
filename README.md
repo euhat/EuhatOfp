@@ -1,5 +1,5 @@
 # EuhatOfp
-Peer to peers communication framework through user space tcp stack such as OFP over DPDK.
+Peer to peers communication framework through user space tcp stack, now implemented in OFP over DPDK.
 
 ## Official site
 http://euhat.com/wp/category/%e8%bd%af%e4%bb%b6/
